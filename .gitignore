@@ -1,0 +1,10 @@
+# 원본 데이터
+data/
+
+# 비밀 설정
+.env
+.env.*
+.vercel/
+
+# 시스템 파일
+.DS_Store
