@@ -5,7 +5,12 @@
   "cards": [
     {"week": 1, "title": "감 테스트", "line": "서울의 미세먼지는?!",
      "judgment": "서울 열린 데이터 광장의 데이터를 기준으로 판단",
-     "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-xdx7.vercel.app/", "img": "img/w1.jpg"}
+     "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-xdx7.vercel.app/", "img": "img/w1.jpg"},
+    {"week": 2, "title": "사내 심사·검토 문의 — 운영관리 팀장이 사내 각 부서에게 배정한다 — 빈 폴더에서",
+     "line": "문의 한 줄을 넣으면 칸 · 긴급도 · 이유가 나옵니다. 문장과 정답은 직접 만들었습니다",
+     "judgment": "규칙\tAI\n칸 정확도\t83.3% (25/30)\t93.3% (28/30)\n긴급도 정확도\t60% (18/30)\t70% (21/30)\n둘 다 맞은 수\t16/30\t20/30\n답을 못 받은 문장\t—\t0건",
+     "ai": ["Claude Code", "Gemini"],
+     "url": "https://my-classifier-ashen.vercel.app/", "img": ""}
   ],
   "proposal": null
 }
