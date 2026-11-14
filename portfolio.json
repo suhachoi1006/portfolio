@@ -10,7 +10,9 @@
      "line": "문의 한 줄을 넣으면 칸 · 긴급도 · 이유가 나옵니다. 문장과 정답은 직접 만들었습니다",
      "judgment": "규칙\tAI\n칸 정확도\t83.3% (25/30)\t93.3% (28/30)\n긴급도 정확도\t60% (18/30)\t70% (21/30)\n둘 다 맞은 수\t16/30\t20/30\n답을 못 받은 문장\t—\t0건",
      "ai": ["Claude Code", "Gemini"],
-     "url": "https://my-classifier-ashen.vercel.app/", "img": ""}
+     "url": "https://my-classifier-ashen.vercel.app/", "img": ""},
+    {"week": 3, "title": "엑셀 정리기", "line": "", "judgment": "",
+     "ai": ["Claude Code", "Google Colab"], "url": "", "img": ""}
   ],
   "proposal": null
 }
